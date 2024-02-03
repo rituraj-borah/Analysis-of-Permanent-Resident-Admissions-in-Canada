@@ -1,6 +1,6 @@
 # Analysis of Permanent Resident Admissions in Canada
 
-## Tools: Excel & Tableau
+## _(Tools used Excel & Tableau)_
 
 ## Overview
 This project aims to analyze trends in permanent residency in Canada, leveraging data from various sources to understand the transition dynamics from temporary to permanent residency. This analysis is especially relevant in the wake of the news article published on June 16, 2023, highlighting Canada's population milestone of 40 million. The project seeks to provide a detailed visual exploration of how different pathways contribute to permanent residency, emphasizing provincial distributions, country of citizenship, and the role of education (study permits) in this transition.
